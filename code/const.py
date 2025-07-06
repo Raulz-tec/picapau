@@ -12,8 +12,10 @@ ENTITY_HEALTH = {
 }
 
 # M
-MENU_OPTION = ('NEW GAME',
-               'EXIT')
+MENU_OPTION = ('WOODPECKER',
+
+               'clique com o mouse')
+
 
 # W
 WIN_WIDTH = 500
